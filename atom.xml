@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-01T15:07:33.800Z</updated>
+  <updated>2018-09-02T15:24:03.916Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2018/09/02/sss/"/>
+    <id>http://yoursite.com/2018/09/02/sss/</id>
+    <published>2018-09-02T15:17:02.456Z</published>
+    <updated>2018-09-02T15:24:03.916Z</updated>
+    
+    <content type="html"><![CDATA[<p>#今天学了 CS61A， 做了3个lecture， 和 lab， 配套练习</p><p>除了最后一个 lab01 的练习有点棘手以为，其他都是很顺利的。</p><p>我真的很喜欢这种上课方式， online 和 offline 配合得很好，作业也很有意思，而且遇到问题能及时反馈，不得不感叹：美国的老师就是把学生当大爷啊，当然，这学费肯定也是配套的。</p><p>总而言之，我现在的路径还是挺清晰的，暂时遇到困难不大。</p><p>就是。。。现在图书馆挺冷清的，，，有点寂寞。。。。</p><p>唉，，，管它呢</p><p>今天发现了那个翻译书本的群组，看来又收获了一个资源了</p><p>嗯， 走着瞧吧。</p><pre><code>----博客待装修</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#今天学了 CS61A， 做了3个lecture， 和 lab， 配套练习&lt;/p&gt;
+&lt;p&gt;除了最后一个 lab01 的练习有点棘手以为，其他都是很顺利的。&lt;/p&gt;
+&lt;p&gt;我真的很喜欢这种上课方式， online 和 offline 配合得很好，作业也很有意思，而且遇到问题能
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title></title>
