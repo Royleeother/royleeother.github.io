@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-02T15:24:03.916Z</updated>
+  <updated>2018-09-03T16:05:33.202Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,21 +17,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://yoursite.com/2018/09/02/sss/"/>
-    <id>http://yoursite.com/2018/09/02/sss/</id>
-    <published>2018-09-02T15:17:02.456Z</published>
-    <updated>2018-09-02T15:24:03.916Z</updated>
+    <title>9-3</title>
+    <link href="http://yoursite.com/2018/09/03/9-3/"/>
+    <id>http://yoursite.com/2018/09/03/9-3/</id>
+    <published>2018-09-03T15:55:40.561Z</published>
+    <updated>2018-09-03T16:05:33.202Z</updated>
     
-    <content type="html"><![CDATA[<p>#今天学了 CS61A， 做了3个lecture， 和 lab， 配套练习</p><p>除了最后一个 lab01 的练习有点棘手以为，其他都是很顺利的。</p><p>我真的很喜欢这种上课方式， online 和 offline 配合得很好，作业也很有意思，而且遇到问题能及时反馈，不得不感叹：美国的老师就是把学生当大爷啊，当然，这学费肯定也是配套的。</p><p>总而言之，我现在的路径还是挺清晰的，暂时遇到困难不大。</p><p>就是。。。现在图书馆挺冷清的，，，有点寂寞。。。。</p><p>唉，，，管它呢</p><p>今天发现了那个翻译书本的群组，看来又收获了一个资源了</p><p>嗯， 走着瞧吧。</p><pre><code>----博客待装修</code></pre>]]></content>
+    <content type="html"><![CDATA[<p>well, well , well,</p><p>今天上了财务课，老师说不能逃课，否则挂科。<br>唉，我都看了《富爸爸~》，还玩了 crashflow 这个游戏，还下载了薄荷账本来记录每天的现金流<br>I think that’s enough,<br>看来我要写篇东西证明给这个老师看才行，肯定不能每节课都上啊</p><p>CS61A， 完成了Lecture3， 这章感觉很重要， 讲函数，高级应用<br>那个 Hog project 真的 繁琐啊， 一大堆英文，有点头晕， 起码我现在不做先</p><p>噢， 今天还发现了 freecodecamp ，不错，Read-Search-Ask ，收入清单中，学前端</p><p>看了 国际经济学30页，没看完，还剩10页。<br>这个，，我看经济学老是有点 ‘觉得是这样啊，你叫我说一遍？ 不行。。’<br>大概讲了比较优势这个东东<br>            取决于 工资率 ， 劳动生产率， 当然要结合 本国和外国的来比较， 这还是简易模型呢</p><pre><code>----C&apos;est La Vie</code></pre>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;#今天学了 CS61A， 做了3个lecture， 和 lab， 配套练习&lt;/p&gt;
-&lt;p&gt;除了最后一个 lab01 的练习有点棘手以为，其他都是很顺利的。&lt;/p&gt;
-&lt;p&gt;我真的很喜欢这种上课方式， online 和 offline 配合得很好，作业也很有意思，而且遇到问题能
+        &lt;p&gt;well, well , well,&lt;/p&gt;
+&lt;p&gt;今天上了财务课，老师说不能逃课，否则挂科。&lt;br&gt;唉，我都看了《富爸爸~》，还玩了 crashflow 这个游戏，还下载了薄荷账本来记录每天的现金流&lt;br&gt;I think that’s enough,&lt;br&gt;看来我要写篇东
       
     
     </summary>
@@ -40,19 +39,44 @@
   </entry>
   
   <entry>
-    <title></title>
-    <link href="http://yoursite.com/2018/09/01/ss/"/>
-    <id>http://yoursite.com/2018/09/01/ss/</id>
-    <published>2018-09-01T13:51:52.341Z</published>
-    <updated>2018-09-01T15:07:33.800Z</updated>
+    <title>9-2</title>
+    <link href="http://yoursite.com/2018/09/02/sss/"/>
+    <id>http://yoursite.com/2018/09/02/sss/</id>
+    <published>2018-09-02T15:17:02.456Z</published>
+    <updated>2018-09-03T15:54:51.901Z</updated>
     
-    <content type="html"><![CDATA[<p>title:   还没开学吗<br>cover: <a href="http://oxnuwmm3w.bkt.clouddn.com/hello-world.jpeg" target="_blank" rel="noopener">http://oxnuwmm3w.bkt.clouddn.com/hello-world.jpeg</a></p><p>author:<br>  nick: Roy Lee<br>  link: <a href="https://www.github.com/Royleeother" target="_blank" rel="noopener">https://www.github.com/Royleeother</a></p><p>subtitle:  开了，凯克</p><p>又是 k书的一天，久违了！ </p><p>今天看了两本书，which is 《别闹了，费曼先生》，《概率导论》</p><p>费曼真的很有趣，而且是个高智商，有才华的人。最最最难得的，是他的 童心 吧，I guess，   我想成为这样的人！！！</p><p>概率导论看了第一章并做了些习题，感觉，，，写得挺周全的，周全，ememm。<br>其实晚上再看的时候，感觉 例题还是够的，但是，但是！ 特么习题真的难啊！！！<br>做了几题就有点脑子不够用了</p><p>但， 毕竟，这是一本“有了这本书国内的教材都扔了吧”的书，嗯，我还是可以的。<br>而且我还没有配合edX的视频看呢，这样会学得更快吧。</p><p>每个星期抽一天专门学概率，那么，九天能学完，对吧。</p><p>现在，我的博客还没装修好啊，我想搞个以标签分栏的垂直的文章排布，而现在是九宫格的<br>唉，我现在怎么用Markdown还不怎么会，但我知道要学的话很快的，嘿嘿，先缓一缓吧。</p><p>还有很多很多东西没做呢！！！要做了。 其实现在脑子大概思路是有的，但还不行，一团乱麻的。</p><p>开学了，有点down，但我知道这是必须经历的。</p><pre><code>--NOT  DEAD YET</code></pre>]]></content>
+    <content type="html"><![CDATA[<p>tags: sadas</p><h1 id="今天学了-CS61A，-做了3个lecture，-和-lab，-配套练习"><a href="#今天学了-CS61A，-做了3个lecture，-和-lab，-配套练习" class="headerlink" title="今天学了 CS61A， 做了3个lecture， 和 lab， 配套练习"></a>今天学了 CS61A， 做了3个lecture， 和 lab， 配套练习</h1><p>除了最后一个 lab01 的练习有点棘手以为，其他都是很顺利的。</p><p>我真的很喜欢这种上课方式， online 和 offline 配合得很好，作业也很有意思，而且遇到问题能及时反馈，不得不感叹：美国的老师就是把学生当大爷啊，当然，这学费肯定也是配套的。</p><p>总而言之，我现在的路径还是挺清晰的，暂时遇到困难不大。</p><p>就是。。。现在图书馆挺冷清的，，，有点寂寞。。。。</p><p>唉，，，管它呢</p><p>今天发现了那个翻译书本的群组，看来又收获了一个资源了</p><p>嗯， 走着瞧吧。</p><pre><code>----博客待装修</code></pre>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;title:   还没开学吗&lt;br&gt;cover: &lt;a href=&quot;http://oxnuwmm3w.bkt.clouddn.com/hello-world.jpeg&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://oxnuwmm3w.bkt.
+        &lt;p&gt;tags: sadas&lt;/p&gt;
+&lt;h1 id=&quot;今天学了-CS61A，-做了3个lecture，-和-lab，-配套练习&quot;&gt;&lt;a href=&quot;#今天学了-CS61A，-做了3个lecture，-和-lab，-配套练习&quot; class=&quot;headerlink&quot; title=&quot;今
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>9-1</title>
+    <link href="http://yoursite.com/2018/09/01/ss/"/>
+    <id>http://yoursite.com/2018/09/01/ss/</id>
+    <published>2018-09-01T13:51:52.341Z</published>
+    <updated>2018-09-03T15:54:49.100Z</updated>
+    
+    <content type="html"><![CDATA[<p>又是 k书的一天，久违了！ </p><p>今天看了两本书，which is 《别闹了，费曼先生》，《概率导论》</p><p>费曼真的很有趣，而且是个高智商，有才华的人。最最最难得的，是他的 童心 吧，I guess，   我想成为这样的人！！！</p><p>概率导论看了第一章并做了些习题，感觉，，，写得挺周全的，周全，ememm。<br>其实晚上再看的时候，感觉 例题还是够的，但是，但是！ 特么习题真的难啊！！！<br>做了几题就有点脑子不够用了</p><p>但， 毕竟，这是一本“有了这本书国内的教材都扔了吧”的书，嗯，我还是可以的。<br>而且我还没有配合edX的视频看呢，这样会学得更快吧。</p><p>每个星期抽一天专门学概率，那么，九天能学完，对吧。</p><p>现在，我的博客还没装修好啊，我想搞个以标签分栏的垂直的文章排布，而现在是九宫格的<br>唉，我现在怎么用Markdown还不怎么会，但我知道要学的话很快的，嘿嘿，先缓一缓吧。</p><p>还有很多很多东西没做呢！！！要做了。 其实现在脑子大概思路是有的，但还不行，一团乱麻的。</p><p>开学了，有点down，但我知道这是必须经历的。</p><pre><code>---NOT  DEAD YET</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;又是 k书的一天，久违了！ &lt;/p&gt;
+&lt;p&gt;今天看了两本书，which is 《别闹了，费曼先生》，《概率导论》&lt;/p&gt;
+&lt;p&gt;费曼真的很有趣，而且是个高智商，有才华的人。最最最难得的，是他的 童心 吧，I guess，   我想成为这样的人！！！&lt;/p&gt;
+&lt;p&gt;概率导论看
       
     
     </summary>
