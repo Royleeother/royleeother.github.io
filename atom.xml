@@ -5,9 +5,9 @@
   <subtitle>李金泉的部落格</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2018-09-09T13:38:16.203Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="royleeother.github.io/"/>
+  <updated>2018-09-10T03:35:39.529Z</updated>
+  <id>royleeother.github.io/</id>
   
   <author>
     <name>Roy Lee</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>9-9</title>
-    <link href="http://yoursite.com/2018/09/09/9-9/"/>
-    <id>http://yoursite.com/2018/09/09/9-9/</id>
+    <link href="royleeother.github.io/2018/09/09/9-9/"/>
+    <id>royleeother.github.io/2018/09/09/9-9/</id>
     <published>2018-09-09T13:35:27.675Z</published>
-    <updated>2018-09-09T13:38:16.203Z</updated>
+    <updated>2018-09-10T03:35:39.529Z</updated>
     
     <content type="html"><![CDATA[<h2 id="HIGHER-FUCKING-OLDER-FUNCTION"><a href="#HIGHER-FUCKING-OLDER-FUNCTION" class="headerlink" title="HIGHER  FUCKING  OLDER FUNCTION !!!"></a>HIGHER  FUCKING  OLDER FUNCTION !!!</h2><h2 id="DATA-FUCKING-ABSTRATION"><a href="#DATA-FUCKING-ABSTRATION" class="headerlink" title="DATA  FUCKING  ABSTRATION !!!"></a>DATA  FUCKING  ABSTRATION !!!</h2><p>—-That ‘s what I’m talking about!!!</p><pre><code>---------爽</code></pre>]]></content>
     
@@ -35,12 +35,14 @@
     </summary>
     
     
+      <category term="日常" scheme="royleeother.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
   </entry>
   
   <entry>
     <title>9-3</title>
-    <link href="http://yoursite.com/2018/09/03/9-3/"/>
-    <id>http://yoursite.com/2018/09/03/9-3/</id>
+    <link href="royleeother.github.io/2018/09/03/9-3/"/>
+    <id>royleeother.github.io/2018/09/03/9-3/</id>
     <published>2018-09-03T15:55:40.561Z</published>
     <updated>2018-09-03T16:05:33.202Z</updated>
     
@@ -61,8 +63,8 @@
   
   <entry>
     <title>9-2</title>
-    <link href="http://yoursite.com/2018/09/02/sss/"/>
-    <id>http://yoursite.com/2018/09/02/sss/</id>
+    <link href="royleeother.github.io/2018/09/02/sss/"/>
+    <id>royleeother.github.io/2018/09/02/sss/</id>
     <published>2018-09-02T15:17:02.456Z</published>
     <updated>2018-09-03T15:54:51.901Z</updated>
     
@@ -83,8 +85,8 @@
   
   <entry>
     <title>9-1</title>
-    <link href="http://yoursite.com/2018/09/01/ss/"/>
-    <id>http://yoursite.com/2018/09/01/ss/</id>
+    <link href="royleeother.github.io/2018/09/01/ss/"/>
+    <id>royleeother.github.io/2018/09/01/ss/</id>
     <published>2018-09-01T13:51:52.341Z</published>
     <updated>2018-09-03T15:54:49.100Z</updated>
     
@@ -107,8 +109,8 @@
   
   <entry>
     <title></title>
-    <link href="http://yoursite.com/2018/08/20/%E8%AF%95%E6%B0%B4/"/>
-    <id>http://yoursite.com/2018/08/20/试水/</id>
+    <link href="royleeother.github.io/2018/08/20/%E8%AF%95%E6%B0%B4/"/>
+    <id>royleeother.github.io/2018/08/20/试水/</id>
     <published>2018-08-20T09:26:40.633Z</published>
     <updated>2018-08-23T07:39:21.197Z</updated>
     
@@ -130,8 +132,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/08/20/hello-world/"/>
-    <id>http://yoursite.com/2018/08/20/hello-world/</id>
+    <link href="royleeother.github.io/2018/08/20/hello-world/"/>
+    <id>royleeother.github.io/2018/08/20/hello-world/</id>
     <published>2018-08-20T03:29:33.902Z</published>
     <updated>2018-08-20T03:29:33.902Z</updated>
     
